@@ -35,7 +35,7 @@ Estos principios son fundamentales para la escritura de código limpio, escalabl
 
 ## Referencias
 Para una descripción más detallada de los principios SOLID, consulta el libro _Clean Code_ de Robert C. Martin.
-
+---
 
 #Como Ejecutar:
 
