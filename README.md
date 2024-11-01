@@ -35,9 +35,8 @@ Estos principios son fundamentales para la escritura de código limpio, escalabl
 
 ## Referencias
 Para una descripción más detallada de los principios SOLID, consulta el libro _Clean Code_ de Robert C. Martin.
----
 
-#Como Ejecutar:
+# Como Ejecutar:
 
 Importar el documento .zip en Netbeans, este contendrá dos pacquetes, uno correciones con las soluciones propuestas, otro violaciones con las violaciones de los principios solid.
 Además hay una clase Main probando las correspondientes correciones.
